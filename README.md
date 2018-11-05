@@ -31,6 +31,8 @@ base는 병합되어지는 대상(기본적으로 master), compare은 <개발완
   - app.py
   - csss
 - img
+- raspToSerial
+- serialToArduino
 - Assistant
   - assistant.py
 
